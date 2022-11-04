@@ -1,4 +1,4 @@
-package com.mariosakamoto;
+package com.mariosakamoto.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
